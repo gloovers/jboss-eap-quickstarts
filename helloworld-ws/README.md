@@ -1,5 +1,7 @@
 # helloworld-ws: Hello World JAX-WS Web Service
 
+
+
 Author: Lee Newson  
 Level: Beginner  
 Technologies: JAX-WS  
@@ -8,6 +10,7 @@ Target Product: JBoss EAP
 Source: <https://github.com/jboss-developer/jboss-eap-quickstarts/>  
 
 ## What is it?
+
 
 The `helloworld-ws` quickstart demonstrates the use of *JAX-WS* in Red Hat JBoss Enterprise Application Platform as a simple Hello World application.
 
